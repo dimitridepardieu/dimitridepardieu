@@ -3,9 +3,10 @@ dimitridepardieu/dimitridepardieu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello! 👋
+# Hello!
 
-I'm Dimitri, a software developer with a Master's degree in Marketing.
+I'm Dimitri, a software developer with a Master's degree in Marketing.</br>
+Ex-student @ [Le Wagon Paris](https://github.com/lewagon).
 
 ## My Projects
 
