@@ -3,16 +3,17 @@ dimitridepardieu/dimitridepardieu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello!
+# Hello! 👋
 
-I'm Dimitri, a junior software developer living in Dijon, Burgundy, France and working in Paris.
+I'm Dimitri, a software developer with a Master's degree in Marketing.
 
 ## My Projects
 
-- [L'Accroche](http://www.laccroche.me/), a prototype of a social platform which connects all kind of artists in the music industry
-- [Chewie'nB](https://airbnb-arnaud-rigourd.herokuapp.com/), a small and fictional prototype of Airbnb where rebels can rent spacecrafts for their missions
+- ☀ [Sunquest](https://github.com/dimitridepardieu/sunquest), a minimalist weather web app to chase the sun for your next weekend adventure
+- 🎸 [L'Accroche](http://www.laccroche.me/), a prototype of a social platform which connects all kind of artists in the music industry
+- 🚀 [Chewie'nB](https://github.com/Arnaud-Rigourd/chewienb), a small and fictional prototype of Airbnb where rebels can rent spacecrafts for their missions
 
-And more projects coming soon on my GitHub profile!
+... and more projects coming soon!
 
 <!---
 ## Courses I've Attended
@@ -23,7 +24,7 @@ And more projects coming soon on my GitHub profile!
 
 ## Contact Me
 
-You can reach me at dimitridepardieu@gmail.com
+👉 You can reach me at dimitridepardieu@gmail.com
 
 <!---
 - 👋 Hi, I’m @dimitridepardieu
