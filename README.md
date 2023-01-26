@@ -5,16 +5,17 @@ You can click the Preview link to take a look at your changes.
 
 # Hello!
 
-I'm Dimitri, a software developer with a Master's degree in Marketing.</br>
-Ex-student @ [Le Wagon Paris](https://github.com/lewagon).
+I'm Dimitri, a software developer with a Master's degree in Marketing.  
+Attended [Le Wagon Paris](https://github.com/lewagon) (Batch #1000).  
+
+Play `code kata` with me on [Codewars](https://www.codewars.com/users/dimitridepardieu) 👾
 
 ## My Projects
 
-- ☀ [Sunquest](https://github.com/dimitridepardieu/sunquest), a minimalist weather web app to chase the sun for your next weekend adventure
-- 🎸 [L'Accroche](http://www.laccroche.me/), a prototype of a social platform which connects all kind of artists in the music industry
-- 🚀 [Chewie'nB](https://github.com/Arnaud-Rigourd/chewienb), a small and fictional prototype of Airbnb where rebels can rent spacecrafts for their missions
+- ☀️ [Sunquest](https://github.com/dimitridepardieu/sunquest), a minimalist weather web app to find sunny weekend destinations
+- 🎸 [L'Accroche](http://www.laccroche.me/), a prototype of a social platform which connects artists in the music industry
 
-... and more projects coming soon!
+... and more coming in 2023!
 
 <!---
 ## Courses I've Attended
@@ -25,7 +26,9 @@ Ex-student @ [Le Wagon Paris](https://github.com/lewagon).
 
 ## Contact Me
 
-👉 You can reach me at dimitridepardieu@gmail.com
+👉 Chat with me on [LinkedIn](https://www.linkedin.com/in/dimitridepardieu/)  
+👉 Send an email at dimitridepardieu@gmail.com  
+
 
 <!---
 - 👋 Hi, I’m @dimitridepardieu
