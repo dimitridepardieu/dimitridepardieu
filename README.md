@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Projects
 
-- [Sunquest](https://github.com/dimitridepardieu/sunquest), a beautiful weather web app to find sunny weekend destinations
+- [Sunquest](https://github.com/dimitridepardieu/sunquest), a beautiful weather web app to find sunny weekend destinations - still in development
+- [Jazzy Puppy](https://scratch.mit.edu/projects/793317529/), a mini online video game developed with Scratch
 - [L'Accroche](http://www.laccroche.me/), a social platform which connects artists in the music industry
 
 <!---
