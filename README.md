@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 I'm Dimitri, a software developer living in France.  
 🚀 I attended [Le Wagon](https://github.com/lewagon) Paris (Batch #1000) in 2022 (Ruby on Rails).  
-🌱 I’m currently attending CS50x 2023 from [Harvard University](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) (C, Python).  
+🌱 I’m currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) 2023 from Harvard University (C, Python).  
 💞️ I’m looking to collaborate on innovative projects in french startups.  
 👉 Let's chat on [LinkedIn](https://www.linkedin.com/in/dimitridepardieu/)!
 
