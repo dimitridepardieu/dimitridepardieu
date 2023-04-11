@@ -3,17 +3,23 @@ dimitridepardieu/dimitridepardieu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there!
+# Hi, I'm Dimitri!
 
+🚀 I attended [Le Wagon](https://github.com/lewagon) Paris in 2022 (Ruby on Rails).  
+🌱 I’m currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) 2023 from Harvard University (C, Python).  
+💞️ I’m looking to collaborate on creative tech projects in french startups.  
+
+<!---
 👋 I'm Dimitri, a software developer living in France.  
 🎓 I graduated from Burgundy School of Business in 2018.  
 🚀 I attended [Le Wagon](https://github.com/lewagon) Paris (Batch #1000) in 2022 (Ruby on Rails).  
 🌱 I’m currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) 2023 from Harvard University (C, Python).  
 💞️ I’m looking to collaborate on innovative tech projects in french startups.  
 
-<!---
 👉 Let's chat on [LinkedIn](https://www.linkedin.com/in/dimitridepardieu/)!
+--->
 
+<!---
 ## Projects
 
 - [Sunquest](https://github.com/dimitridepardieu/sunquest), a beautiful weather web app to find sunny weekend destinations - still in development
