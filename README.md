@@ -3,10 +3,12 @@ dimitridepardieu/dimitridepardieu is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 # Hi, I'm Dimitri!
 
 🚀 I attended [Le Wagon](https://github.com/lewagon) Paris in 2022 (Ruby on Rails).  
 🌱 I’m currently attending [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) 2023 from Harvard University (C, Python).  
+--->
 
 <!---
 👋 I'm Dimitri, a software developer living in France.  
